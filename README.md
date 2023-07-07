@@ -1,10 +1,10 @@
 ### Olá ! Eu sou a Eduarda Mollica 👋
 
-<div>
+<!-- <div>
   <a href="https://github.com/dudamollica">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudamollica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudamollica&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+ </div> -->
   
 <div style="display: inline_block"><br>
 <img aling="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
